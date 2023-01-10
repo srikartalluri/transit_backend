@@ -1,0 +1,192 @@
+id: "1249897"
+trip_update {
+  trip {
+    trip_id: "1249897"
+    schedule_relationship: SCHEDULED
+  }
+  stop_time_update {
+    stop_sequence: 8
+    arrival {
+      delay: 26
+      time: 1672243164
+      uncertainty: 30
+    }
+    departure {
+      delay: 26
+      time: 1672243182
+      uncertainty: 30
+    }
+    stop_id: "SANL"
+  }
+  stop_time_update {
+    stop_sequence: 9
+    arrival {
+      delay: 0
+      time: 1672243385
+      uncertainty: 30
+    }
+    departure {
+      delay: 0
+      time: 1672243409
+      uncertainty: 30
+    }
+    stop_id: "COLS"
+  }
+  stop_time_update {
+    stop_sequence: 10
+    arrival {
+      delay: 0
+      time: 1672243583
+      uncertainty: 30
+    }
+    departure {
+      delay: 0
+      time: 1672243619
+      uncertainty: 30
+    }
+    stop_id: "FTVL"
+  }
+  stop_time_update {
+    stop_sequence: 11
+    arrival {
+      delay: 0
+      time: 1672243859
+      uncertainty: 30
+    }
+    departure {
+      delay: 0
+      time: 1672243901
+      uncertainty: 30
+    }
+    stop_id: "LAKE"
+  }
+  stop_time_update {
+    stop_sequence: 12
+    arrival {
+      delay: 0
+      time: 1672244201
+      uncertainty: 30
+    }
+    departure {
+      delay: 0
+      time: 1672244231
+      uncertainty: 30
+    }
+    stop_id: "WOAK"
+  }
+  stop_time_update {
+    stop_sequence: 13
+    arrival {
+      delay: 0
+      time: 1672244615
+      uncertainty: 30
+    }
+    departure {
+      delay: 0
+      time: 1672244651
+      uncertainty: 30
+    }
+    stop_id: "EMBR"
+  }
+  stop_time_update {
+    stop_sequence: 14
+    arrival {
+      delay: 0
+      time: 1672244717
+      uncertainty: 30
+    }
+    departure {
+      delay: 0
+      time: 1672244747
+      uncertainty: 30
+    }
+    stop_id: "MONT"
+  }
+  stop_time_update {
+    stop_sequence: 15
+    arrival {
+      delay: 0
+      time: 1672244819
+      uncertainty: 30
+    }
+    departure {
+      delay: 0
+      time: 1672244849
+      uncertainty: 30
+    }
+    stop_id: "POWL"
+  }
+  stop_time_update {
+    stop_sequence: 16
+    arrival {
+      delay: 0
+      time: 1672244921
+      uncertainty: 30
+    }
+    departure {
+      delay: 0
+      time: 1672244945
+      uncertainty: 30
+    }
+    stop_id: "CIVC"
+  }
+  stop_time_update {
+    stop_sequence: 17
+    arrival {
+      delay: 0
+      time: 1672245065
+      uncertainty: 30
+    }
+    departure {
+      delay: 0
+      time: 1672245083
+      uncertainty: 30
+    }
+    stop_id: "16TH"
+  }
+  stop_time_update {
+    stop_sequence: 18
+    arrival {
+      delay: 0
+      time: 1672245185
+      uncertainty: 30
+    }
+    departure {
+      delay: 0
+      time: 1672245203
+      uncertainty: 30
+    }
+    stop_id: "24TH"
+  }
+  stop_time_update {
+    stop_sequence: 19
+    arrival {
+      delay: 0
+      time: 1672245353
+      uncertainty: 30
+    }
+    departure {
+      delay: 0
+      time: 1672245371
+      uncertainty: 30
+    }
+    stop_id: "GLEN"
+  }
+  stop_time_update {
+    stop_sequence: 20
+    arrival {
+      delay: 0
+      time: 1672245491
+      uncertainty: 30
+    }
+    departure {
+      delay: 0
+      time: 1672245509
+      uncertainty: 30
+    }
+    stop_id: "BALB"
+  }
+  vehicle {
+    label: "2-door"
+  }
+}
